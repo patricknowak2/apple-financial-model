@@ -1,5 +1,4 @@
-# apple-financial-model
-3 statement model, DCF and comps for Apple (FY2021-FY2031)
+
 # Apple (AAPL) Financial Model
 
 3-statement model built from Apple's FY2021–FY2026 10-Ks, with a 5-year forecast,
